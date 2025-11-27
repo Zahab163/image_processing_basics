@@ -37,27 +37,6 @@ This project demonstrates essential image processing techniques including:
 - Feature extraction simplification
 - Machine learning model input preparation
 
-- ## Installation & Usage
-bash
-pip install matplotlib pillow opencv-python numpy
-
-
-Run the Jupyter notebook in Google Colab or local environment.
-
-
-###File Structure:
-
-image-processing-basics/
-│
-├── RGB_to_Grayscale_Image_Processing.ipynb
-├── README.md
-├── images/
-│   ├── original_image.jpg
-│   ├── resized_image.jpg
-│   └── grayscale_image.jpg
-└── requirements.txt
-
-
 
 
 """
